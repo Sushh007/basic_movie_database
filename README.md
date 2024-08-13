@@ -18,6 +18,6 @@ This project is a responsive movie database web app built with React and Axios. 
 
 ![movie DB0](https://github.com/user-attachments/assets/d0eadcc9-dae1-4cc9-9ddb-37fd7706efcf)
 
+![movie DB1](https://github.com/user-attachments/assets/4a385399-730a-4448-ad36-7f9591fe4273)
 
-![movie DB0](https://github.com/user-attachments/assets/b9db2a66-0d10-46a5-a759-e046479619f1)
 
